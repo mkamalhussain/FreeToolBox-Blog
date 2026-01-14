@@ -1,0 +1,402 @@
+[
+    {
+        "id": "animated-gif-maker",
+        "name": "Animated GIF Maker",
+        "description": "Create GIFs from images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/animated-gif-maker",
+        "slug": "animated-gif-maker"
+    },
+    {
+        "id": "custom-card-maker",
+        "name": "Custom Card Maker",
+        "description": "Design simple cards and badges.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/custom-card-maker",
+        "slug": "custom-card-maker"
+    },
+    {
+        "id": "favicon-maker",
+        "name": "Favicon Maker",
+        "description": "Generate favicons from images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/favicon-maker",
+        "slug": "favicon-maker"
+    },
+    {
+        "id": "ascii-art-converter",
+        "name": "ASCII Art Converter",
+        "description": "Convert images to ASCII art.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-ascii-art-converter",
+        "slug": "ascii-art-converter"
+    },
+    {
+        "id": "background-changer",
+        "name": "Background Changer",
+        "description": "Change or remove image backgrounds.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-background-changer",
+        "slug": "background-changer"
+    },
+    {
+        "id": "image-dithering-tool",
+        "name": "Image Dithering Tool",
+        "description": "Apply grayscale and color dithering algorithms.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-dithering-tool",
+        "slug": "image-dithering-tool"
+    },
+    {
+        "id": "image-exif-tool",
+        "name": "Image EXIF Tool",
+        "description": "View and edit EXIF metadata.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-exif-tool",
+        "slug": "image-exif-tool"
+    },
+    {
+        "id": "image-ocr-extractor",
+        "name": "Image OCR Extractor",
+        "description": "Extract text from images using OCR.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-ocr-extractor",
+        "slug": "image-ocr-extractor"
+    },
+    {
+        "id": "image-pixel-sorter",
+        "name": "Image Pixel Sorter",
+        "description": "Glitch art via pixel sorting.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-pixel-sorter",
+        "slug": "image-pixel-sorter"
+    },
+    {
+        "id": "image-puzzle-game",
+        "name": "Image Puzzle Game",
+        "description": "Shuffle pieces and solve the image puzzle.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-puzzle-game",
+        "slug": "image-puzzle-game"
+    },
+    {
+        "id": "format-converter",
+        "name": "Format Converter",
+        "description": "Convert between image formats.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-format-converter",
+        "slug": "format-converter"
+    },
+    {
+        "id": "hidden-message",
+        "name": "Hidden Message",
+        "description": "Hide and reveal messages in images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-hidden-message",
+        "slug": "hidden-message"
+    },
+    {
+        "id": "anaglyph-3d",
+        "name": "Anaglyph 3D",
+        "description": "Create 3D anaglyph images from stereo pairs.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-anaglyph-3d",
+        "slug": "anaglyph-3d"
+    },
+    {
+        "id": "image-resizer",
+        "name": "Image Resizer",
+        "description": "Resize images quickly.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-resizer",
+        "slug": "image-resizer"
+    },
+    {
+        "id": "image-to-cartoon",
+        "name": "Image to Cartoon",
+        "description": "Cartoonify your images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-to-cartoon",
+        "slug": "image-to-cartoon"
+    },
+    {
+        "id": "color-palette-extractor",
+        "name": "Color Palette Extractor",
+        "description": "Extract dominant colors and copy hex codes.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/color-palette-extractor",
+        "slug": "color-palette-extractor"
+    },
+    {
+        "id": "image-upscaler",
+        "name": "Image Upscaler",
+        "description": "Upscale images by 2x–4x with multiple methods.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-upscaler",
+        "slug": "image-upscaler"
+    },
+    {
+        "id": "watermark-remover",
+        "name": "Watermark Remover",
+        "description": "Brush blur or clone to clean watermark areas.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/watermark-remover",
+        "slug": "watermark-remover"
+    },
+    {
+        "id": "personality-analyzer",
+        "name": "Personality Analyzer",
+        "description": "Analyze personality traits through handwriting analysis.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/personality-analyzer",
+        "slug": "personality-analyzer"
+    },
+    {
+        "id": "qr-code-tool",
+        "name": "QR Code Tool",
+        "description": "Generate QR codes or scan QR codes from images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/qr-code-tool",
+        "slug": "qr-code-tool"
+    },
+    {
+        "id": "image-mood-analyzer",
+        "name": "Image Mood Analyzer",
+        "description": "Discover the emotional vibe of your images with AI-powered mood analysis.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-mood-analyzer",
+        "slug": "image-mood-analyzer"
+    },
+    {
+        "id": "color-blindness-simulator",
+        "name": "Color Blindness Simulator",
+        "description": "See how your images appear to people with different color vision deficiencies.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/color-blindness-simulator",
+        "slug": "color-blindness-simulator"
+    },
+    {
+        "id": "image-histogram-viewer",
+        "name": "Image Histogram Viewer",
+        "description": "Analyze color distribution and brightness levels in your images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-histogram-viewer",
+        "slug": "image-histogram-viewer"
+    },
+    {
+        "id": "meme-generator",
+        "name": "Meme Generator",
+        "description": "Create hilarious memes with popular templates and custom text.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/meme-generator",
+        "slug": "meme-generator"
+    },
+    {
+        "id": "image-grid-maker",
+        "name": "Image Grid Maker",
+        "description": "Create perfect image grids and collages with uniform cell sizes.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-grid-maker",
+        "slug": "image-grid-maker"
+    },
+    {
+        "id": "image-size-predictor",
+        "name": "Image Size Predictor",
+        "description": "Predict compressed file sizes and optimize images for web delivery.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/image-size-predictor",
+        "slug": "image-size-predictor"
+    },
+    {
+        "id": "infographic-creator",
+        "name": "Infographic Creator",
+        "description": "Create stunning infographics with charts, text, and background images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/infographic-creator",
+        "slug": "infographic-creator"
+    },
+    {
+        "id": "perspective-correction",
+        "name": "Perspective Correction",
+        "description": "Correct tilted horizons and perspective distortion in photos.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/perspective-correction",
+        "slug": "perspective-correction"
+    },
+    {
+        "id": "panorama-stitcher",
+        "name": "Panorama Stitcher",
+        "description": "Combine multiple overlapping photos into panoramic images.",
+        "category": "Image",
+        "link": "https://freetoolbox.app/modules/panorama-stitcher",
+        "slug": "panorama-stitcher"
+    },
+    {
+        "id": "podcast-clip-cutter",
+        "name": "Podcast Clip Cutter",
+        "description": "Upload audio files and trim them by selecting start and end times.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/podcast-clip-cutter",
+        "slug": "podcast-clip-cutter"
+    },
+    {
+        "id": "multi-track-mixer",
+        "name": "Multi-Track Mixer",
+        "description": "Upload multiple audio tracks and merge them into a single file.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/multi-track-mixer",
+        "slug": "multi-track-mixer"
+    },
+    {
+        "id": "speed-pitch-adjuster",
+        "name": "Speed/Pitch Adjuster",
+        "description": "Adjust audio speed (0.5x to 2x) and pitch independently.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/speed-pitch-adjuster",
+        "slug": "speed-pitch-adjuster"
+    },
+    {
+        "id": "noise-cleaner-tool",
+        "name": "Noise Cleaner Tool",
+        "description": "Automatically remove background noise from audio files.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/noise-cleaner",
+        "slug": "noise-cleaner-tool"
+    },
+    {
+        "id": "waveform-generator",
+        "name": "Waveform Generator",
+        "description": "Generate visual waveform images in PNG format from audio.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/waveform-generator",
+        "slug": "waveform-generator"
+    },
+    {
+        "id": "tag-editor-pro",
+        "name": "Tag Editor Pro",
+        "description": "View and edit ID3 metadata tags in audio files.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/tag-editor-pro",
+        "slug": "tag-editor-pro"
+    },
+    {
+        "id": "voice-memo-transcriber",
+        "name": "Voice Memo Transcriber",
+        "description": "Record or upload audio and get them transcribed to text.",
+        "category": "Audio",
+        "link": "https://freetoolbox.app/audio/voice-memo-transcriber",
+        "slug": "voice-memo-transcriber"
+    },
+    {
+        "id": "short-video-trimmer",
+        "name": "Short Video Trimmer",
+        "description": "Upload videos and trim them using a timeline scrubber.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/video-trimmer",
+        "slug": "short-video-trimmer"
+    },
+    {
+        "id": "clip-joiner-tool",
+        "name": "Clip Joiner Tool",
+        "description": "Upload multiple video clips and merge them with smooth transitions.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/clip-joiner",
+        "slug": "clip-joiner-tool"
+    },
+    {
+        "id": "gif-maker-from-video",
+        "name": "GIF Maker from Video",
+        "description": "Convert video segments to animated GIFs.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/gif-maker",
+        "slug": "gif-maker-from-video"
+    },
+    {
+        "id": "speed-changer-pro",
+        "name": "Speed Changer Pro",
+        "description": "Adjust video playback speed while preserving audio pitch.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/speed-changer",
+        "slug": "speed-changer-pro"
+    },
+    {
+        "id": "subtitle-burner",
+        "name": "Subtitle Burner",
+        "description": "Permanently embed SRT subtitles into video files.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/subtitle-burner",
+        "slug": "subtitle-burner"
+    },
+    {
+        "id": "frame-grabber",
+        "name": "Frame Grabber",
+        "description": "Extract individual frames from videos as high-quality PNG images.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/frame-grabber",
+        "slug": "frame-grabber"
+    },
+    {
+        "id": "audio-stripper",
+        "name": "Audio Stripper",
+        "description": "Extract audio tracks from video files and save them as MP3.",
+        "category": "Video",
+        "link": "https://freetoolbox.app/video/audio-stripper",
+        "slug": "audio-stripper"
+    },
+    {
+        "id": "pdf-compressor",
+        "name": "PDF Compressor",
+        "description": "Reduce PDF file size with adjustable compression levels.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/pdf-compressor",
+        "slug": "pdf-compressor"
+    },
+    {
+        "id": "pdf-merger",
+        "name": "PDF Merger",
+        "description": "Combine multiple PDF files into one document.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/pdf-merger",
+        "slug": "pdf-merger"
+    },
+    {
+        "id": "pdf-splitter",
+        "name": "PDF Splitter",
+        "description": "Extract specific pages or split PDF into multiple documents.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/pdf-splitter",
+        "slug": "pdf-splitter"
+    },
+    {
+        "id": "text-to-pdf",
+        "name": "Text to PDF",
+        "description": "Convert text content into beautifully formatted PDF documents.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/text-to-pdf",
+        "slug": "text-to-pdf"
+    },
+    {
+        "id": "pdf-encryption-tool",
+        "name": "PDF Encryption Tool",
+        "description": "Encrypt and decrypt PDF files with AES-256 encryption.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/pdf-password",
+        "slug": "pdf-encryption-tool"
+    },
+    {
+        "id": "pdf-form-filler",
+        "name": "PDF Form Filler",
+        "description": "Automatically detect and fill PDF form fields.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/pdf-form-filler",
+        "slug": "pdf-form-filler"
+    },
+    {
+        "id": "pdf-text-extractor",
+        "name": "PDF Text Extractor",
+        "description": "Extract text content from PDF files and export as editable text or HTML.",
+        "category": "PDF",
+        "link": "https://freetoolbox.app/pdf/pdf-text-extractor",
+        "slug": "pdf-text-extractor"
+    }
+]
