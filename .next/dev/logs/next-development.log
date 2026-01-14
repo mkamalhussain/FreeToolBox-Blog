@@ -1,4 +1,0 @@
-[00:00:10.467] Server  LOG     ✓ Ready in 8s
-[00:02:06.018] Server  LOG     ○ Compiling / ...
-[00:02:24.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:24.630] Browser WARN    Image with src "/images/hero-pdf.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
